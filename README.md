@@ -1,3 +1,14 @@
+## Description
+This is a project where you can search picture of everything type.
+
+I used API from https://pixabay.com/api/
+
+Preview https://picturesearch.netlify.app
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
