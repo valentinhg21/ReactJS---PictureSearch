@@ -1,9 +1,9 @@
 ## Description
-This is a project where you can search picture of everything type.
+En este proyecto encontraras las imagenes de todo tipo.
 
-I used API from https://pixabay.com/api/
+API usada: https://pixabay.com/api
 
-Preview https://picturesearch.netlify.app
+Visualización: https://picturesearch.netlify.app
 
 
 
